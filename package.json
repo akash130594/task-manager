@@ -6,7 +6,8 @@
     ],
     "scripts": {
         "client": "yarn workspace client start",
-        "server": "yarn workspace server start"
+        "server": "yarn workspace server start",
+		"front": "yarn workspace front start"
     },
     "dependencies": {
         "yarn-install": "^1.0.0"
